@@ -5,7 +5,6 @@ We do not take responsibility for how any information provided on this website i
 By using this website, you acknowledge and agree that this website and its contributors are not liable for any errors, omissions, or consequences resulting from the use of the information provided.
 
 Important Deadlines and Assistance
-
 	•	Right of Entry (ROE) Form Submission: To participate in the free debris removal program, submit the ROE form by March 31, 2025. Assistance is available through the Fire Debris Hotline at (844) 347-3332.  
 	•	Debris Removal Deadline: Los Angeles County officials urge residents to meet the debris removal deadline to ensure timely and safe cleanup.  
 
