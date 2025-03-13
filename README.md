@@ -1,8 +1,8 @@
-We are a pro bono organization dedicated to providing general information and guidance. All advice and resources shared on this website are for informational purposes only and should not be considered as professional, legal, or expert advice.
+LA re-Build Project is a pro bono organization dedicated to providing general information and guidance. All advice and resources shared on this website are for informational purposes only and should not be considered as professional, legal, or expert advice.
 
 We do not take responsibility for how any information provided on this website is applied. The implementation of any advice or recommendations is solely at the discretion and risk of the reader. We strongly encourage individuals to consult with qualified professionals based on your own specific situation or official sources before taking any action. 
 
-By using this website, you acknowledge and agree that this website and its contributors are not liable for any errors, omissions, or consequences resulting from the use of the information provided.
+By using this website, you acknowledge and agree that LA re-Build Project and its contributors are not liable for any errors, omissions, or consequences resulting from the use of the information provided.
 
 Important Deadlines and Assistance
 	•	Right of Entry (ROE) Form Submission: To participate in the free debris removal program, submit the ROE form by March 31, 2025. Assistance is available through the Fire Debris Hotline at (844) 347-3332.  
