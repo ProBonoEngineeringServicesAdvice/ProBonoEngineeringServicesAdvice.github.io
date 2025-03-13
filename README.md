@@ -1,4 +1,4 @@
-The Los Angeles Rebuild Project (LARebuildProject.com) is committed to helping all individuals and families affected by the devastating LA fires, regardless of their financial situation. Whether homeowners can afford to rebuild or are struggling to recover, we recognize that the loss is similar.
+The Los Angeles Rebuild Project (LARebuildProject.com) is committed to helping all individuals and families affected by the devastating LA fires 2025, regardless of their financial situation. Whether homeowners can afford to rebuild or are struggling to recover, we recognize that the loss is similar.
 
 Although our primary focus is on assisting the most vulnerable—those who may not have the resources to hire professional services and must rely solely on general contractors. Together architects, engineers, and project managers, we aim to provide expert guidance, ensuring that these homeowners have access to safe, sustainable, and cost-effective rebuilding solutions. Through pro bono advice we strive to bridge the gap and help rebuild lives with dignity and resilience.
 
