@@ -1,6 +1,9 @@
-LA re-Build Project is a pro bono organization dedicated to providing general information and guidance. All advice and resources shared on this website are for informational purposes only and should not be considered as professional, legal, or expert advice.
+The Los Angeles Rebuild Project (LARebuildProject.com) is committed to helping all individuals and families affected by the devastating LA fires, regardless of their financial situation. Whether homeowners can afford to rebuild or are struggling to recover, we recognize that the loss is similar.
 
-We do not take responsibility for how any information provided on this website is applied. The implementation of any advice or recommendations is solely at the discretion and risk of the reader. We strongly encourage individuals to consult with qualified professionals based on your own specific situation or official sources before taking any action. 
+Although our primary focus is on assisting the most vulnerable—those who may not have the resources to hire professional services and must rely solely on general contractors. Together architects, engineers, and project managers, we aim to provide expert guidance, ensuring that these homeowners have access to safe, sustainable, and cost-effective rebuilding solutions. Through pro bono advice we strive to bridge the gap and help rebuild lives with dignity and resilience.
+
+L.A. Rebuild Project is a pro bono organization dedicated to providing general information and guidance. All advice and resources shared on this website are for informational purposes.
+We do not take responsibility for how any information provided on this website is applied. The implementation of any advice or recommendations is solely at the discretion and risk of the reader. We strongly encourage individuals to consult with qualified professionals as all sites are different and may require different approach. 
 
 By using this website, you acknowledge and agree that LA re-Build Project and its contributors are not liable for any errors, omissions, or consequences resulting from the use of the information provided.
 
