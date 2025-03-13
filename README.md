@@ -10,7 +10,51 @@ Important Deadlines and Assistance
 
 Engaging with these resources will help ensure a safe and efficient debris removal process, facilitating the recovery and rebuilding of affected communities in Los Angeles.
 
+In the aftermath of recent wildfires in Los Angeles, efficient and safe debris removal is crucial to protect public health and facilitate recovery. Here are key resources and contacts to assist residents in the debris removal process:
 
+1. Los Angeles County Debris Removal Program
+
+Los Angeles County has established a comprehensive debris removal program to aid residents affected by the wildfires. The program is divided into two phases:
+	•	Phase 1: Removal of household hazardous waste.
+	•	Phase 2: Removal of remaining structural debris.
+
+To participate in the free Phase 2 debris removal, property owners must complete a Right of Entry (ROE) form by March 31, 2025. This form permits government contractors to access your property for debris removal. Assistance with the form is available through:
+	•	Fire Debris Hotline: (844) 347-3332
+	•	Email: bridgefire@pw.lacounty.gov
+
+For more details and to access the ROE form, visit the Los Angeles County Public Works Debris Removal page.  
+
+2. U.S. Army Corps of Engineers (USACE) Assistance
+
+The USACE, in coordination with the Federal Emergency Management Agency (FEMA), is actively involved in debris removal efforts in Los Angeles County. They have initiated Phase 2 of debris removal, focusing on private residential properties. For inquiries regarding their services:
+	•	Debris Removal Hotline: (213) 308-8305
+
+Additional information can be found on the USACE Los Angeles District’s wildfire debris removal mission page.  
+
+3. Local Junk Removal Services
+
+Several local companies offer debris and junk removal services:
+	•	Junk King Los Angeles: Provides comprehensive junk removal services in the Los Angeles area. Contact them at (909) 332-3964 or visit their website.  
+	•	LA Junk Haul: Offers a variety of junk removal services, including debris removal, with a focus on affordability and customer satisfaction. Reach them at (310) 773-2874 or through their website.  
+	•	Dirty Deeds Junk Removal: Provides same-day junk hauling for residential and commercial properties. Contact them at (213) 601-2778 or visit their website.  
+
+4. Los Angeles Sanitation (LASAN)
+
+LASAN is responsible for waste collection and recycling services in Los Angeles. They offer trash pickup, abandoned garbage pickup, recycling programs, and wastewater treatment. Their customer care center is available 24/7 at 1-800-773-2489.  
+
+5. Athens Services
+
+Athens Services is a local, family-owned waste collection and recycling company serving the greater Los Angeles community for over 60 years. They provide innovative environmental services to more than 250,000 customers in over 50 communities.  
+
+Engaging with these resources will help ensure a safe and efficient debris removal process, facilitating the recovery and rebuilding of affected communities in Los Angeles.
+
+For official guidance, always refer to government agencies such as:
+	•	Los Angeles County Public Works (recovery.lacounty.gov)
+	•	California Department of Toxic Substances Control (dtsc.ca.gov)
+	•	South Coast Air Quality Management District (SCAQMD) (aqmd.gov)
+	•	FEMA Disaster Assistance (disasterassistance.gov)
+
+These organizations provide verified procedures and liability coverage for debris removal and health safety. 
 
 Los Angeles Rebuilding Process and Future: An Opportunity to Redesign and Prevent Future Disasters
 
