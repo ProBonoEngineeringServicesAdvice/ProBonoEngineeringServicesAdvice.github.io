@@ -1,3 +1,11 @@
+Important Deadlines and Assistance
+	•	Right of Entry (ROE) Form Submission: To participate in the free debris removal program, submit the ROE form by March 31, 2025. Assistance is available through the Fire Debris Hotline at (844) 347-3332.  
+	•	Debris Removal Deadline: Los Angeles County officials urge residents to meet the debris removal deadline to ensure timely and safe cleanup.  
+
+Engaging with these resources will help ensure a safe and efficient debris removal process, facilitating the recovery and rebuilding of affected communities in Los Angeles.
+
+
+
 Los Angeles Rebuilding Process and Future: An Opportunity to Redesign and Prevent Future Disasters
 
 In the wake of a disaster—be it an earthquake, wildfire, or infrastructure failure—the rebuilding process in Los Angeles offers a unique chance to address longstanding vulnerabilities while preparing for a more sustainable and resilient future. With a growing population, evolving climate challenges, and aging infrastructure, the city has an opportunity to innovate and create systems designed to mitigate the impact of future disasters.
