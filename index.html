@@ -3,66 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LA Fire Rebuild Guide</title>
+    <title>LA Rebuild Project</title>
     <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
 </head>
 <body>
 
-    <header>
-        <h1>Los Angeles Fire Rebuild Guide</h1>
-        <p>Civil Engineering | Architecture | Project Management</p>
-    </header>
+    <!-- Accept Policy Modal -->
+    <div id="policyModal" class="modal">
+        <div class="modal-content">
+            <h2>Accept Our Policy</h2>
+            <p>By using this website, you agree to our terms and conditions.</p>
+            <button onclick="acceptPolicy()">Accept</button>
+        </div>
+    </div>
 
+    <!-- Navigation Tabs -->
     <nav>
         <ul>
-            <li><a href="#safety">Structural Safety</a></li>
-            <li><a href="#materials">Fire-Resistant Materials</a></li>
-            <li><a href="#permits">Permits & Regulations</a></li>
-            <li><a href="#management">Project Management</a></li>
-            <li><a href="#sustainability">Sustainability</a></li>
-            <li><a href="#contact">Emergency Contacts</a></li>
+            <li class="tab active" onclick="openTab(event, 'home')">Home</li>
+            <li class="tab" onclick="openTab(event, 'about')">About</li>
+            <li class="tab" onclick="openTab(event, 'assistance')">Assistance</li>
+            <li class="tab" onclick="openTab(event, 'rebuilding')">Rebuilding</li>
+            <li class="tab" onclick="openTab(event, 'contact')">Contact</li>
         </ul>
     </nav>
 
-    <section id="safety">
-        <h2>Structural Safety Guidelines</h2>
-        <p>Ensure compliance with seismic and fire safety codes. Use reinforced concrete and steel framing for durability.</p>
+    <!-- Tab Content -->
+    <section id="home" class="tab-content active">
+        <h1>Welcome to LA Rebuild Project</h1>
+        <p>Committed to assisting individuals affected by the 2025 LA fires.</p>
     </section>
 
-    <section id="materials">
-        <h2>Fire-Resistant Materials</h2>
-        <ul>
-            <li>Concrete and Brick</li>
-            <li>Tempered Glass</li>
-            <li>Steel Roofing</li>
-            <li>Fire-Retardant Coatings</li>
-        </ul>
+    <section id="about" class="tab-content">
+        <h1>About Us</h1>
+        <p>We provide free guidance to homeowners rebuilding after the LA fires.</p>
     </section>
 
-    <section id="permits">
-        <h2>Permits & Regulations</h2>
-        <p>Follow LA county building codes. Obtain fire safety clearance and environmental impact assessments.</p>
+    <section id="assistance" class="tab-content">
+        <h1>Assistance & Resources</h1>
+        <p>Find important deadlines and programs, including debris removal and FEMA assistance.</p>
     </section>
 
-    <section id="management">
-        <h2>Project Management Tips</h2>
-        <p>Plan budgets, hire licensed contractors, and maintain project timelines for efficient rebuilding.</p>
+    <section id="rebuilding" class="tab-content">
+        <h1>Rebuilding for the Future</h1>
+        <p>Strategies for a safer, more resilient Los Angeles.</p>
     </section>
 
-    <section id="sustainability">
-        <h2>Sustainable Rebuilding</h2>
-        <p>Use solar panels, rainwater harvesting, and energy-efficient insulation to create a sustainable home.</p>
+    <section id="contact" class="tab-content">
+        <h1>Contact Us</h1>
+        <p>Email: info@larebuildproject.com | Phone: (862) 360-3676</p>
     </section>
-
-    <section id="contact">
-        <h2>Emergency Contacts & Resources</h2>
-        <p><strong>LA Fire Department:</strong> (213) 978-3800</p>
-        <p><strong>Building Permits Office:</strong> (213) 482-0386</p>
-    </section>
-
-    <footer>
-        <p>&copy; 2025 LA Fire Rebuild Guide | Designed by Civil Engineers & Architects</p>
-    </footer>
 
 </body>
 </html>
