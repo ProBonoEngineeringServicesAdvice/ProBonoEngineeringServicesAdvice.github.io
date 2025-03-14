@@ -56,6 +56,11 @@ h2 {
     color: #0056b3;
 }
 
+h3 {
+    font-size: 26px;
+    color: #b50300;
+}
+
 /* Paragraph Styling */
 p {
     font-size: 18px;
