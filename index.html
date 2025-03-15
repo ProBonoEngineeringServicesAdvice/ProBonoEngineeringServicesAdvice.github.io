@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los Angeles Rebuild Project</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+
+    <!-- Accept Policy Modal -->
+    <div id="policyModal" class="modal">
+        <div class="modal-content">
+            <h2>Accept Our Policy</h2>
+            <p>By using this website, you acknowledge that the information provided is general guidance only. LA Rebuild Project and its contributors are not liable for any application of this advice.</p>
+            <button onclick="acceptPolicy()">Accept</button>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li class="tab active" onclick="openTab(event, 'home')">Home</li>
+            <li class="tab" onclick="openTab(event, 'about')">About</li>
+            <li class="tab" onclick="openTab(event, 'assistance')">Debris Removal</li>
+            <li class="tab" onclick="openTab(event, 'rebuilding')">Rebuilding</li>
+            <li class="tab" onclick="openTab(event, 'contact')">Contact</li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <!-- Home Section -->
+        <section id="home" class="tab-content active">
+            <h1>Welcome to LA Rebuild Project</h1>
+            <p>Committed to assisting homeowners affected by the 2025 LA fires.</p>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="tab-content">
+            <h1>About Us</h1>
+            <p>We provide free guidance to homeowners rebuilding after disasters.</p>
+        </section>
+
+        <!-- Assistance Section -->
+        <section id="assistance" class="tab-content">
+            <h1>Debris Removal Assistance</h1>
+            <p>Find information on government programs, debris removal deadlines, and assistance.</p>
+            <p>Visit <a href="https://recovery.lacounty.gov" target="_blank">LA County Recovery</a> for official updates.</p>
+        </section>
+
+        <!-- Rebuilding Section -->
+        <section id="rebuilding" class="tab-content">
+            <h1>Rebuilding for the Future</h1>
+            <p>Learn about safe, cost-effective, and sustainable rebuilding solutions.</p>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="tab-content">
+            <h1>Contact Us</h1>
+            <p>Email: info@LARebuildProject.com | Phone: (862) 579-8831</p>
+            <form id="contactForm">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="site-location">Site Location:</label>
+                <input type="text" id="site-location" name="site-location" required>
+                <label for="comments">Comments:</label>
+                <textarea id="comments" name="comments" rows="4" required></textarea>
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+    </div>
+
+</body>
+</html>
