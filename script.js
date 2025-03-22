@@ -36,7 +36,8 @@ document.addEventListener("DOMContentLoaded", function () {
    <div class="expandable-box">
     Hover to Expand
 </div>
-
+}
+                          
 .expandable-box {
     width: 200px;
     height: 200px;
