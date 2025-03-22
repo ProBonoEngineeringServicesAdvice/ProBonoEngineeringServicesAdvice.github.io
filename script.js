@@ -37,6 +37,8 @@ document.addEventListener("DOMContentLoaded", function () {
     Hover to Expand
 </div>
 }
+    });
+
                           
 .expandable-box {
     width: 200px;
@@ -60,5 +62,5 @@ document.addEventListener("DOMContentLoaded", function () {
     background-color: #2980b9;
     font-size: 22px;
 }
-    });
+    
 });
